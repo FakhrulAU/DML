@@ -1,0 +1,16 @@
+insert into staff(NmStaff, DescStaff) VALUES
+("Stan Lee", "Stan Lee was an American comic book writer, editor, publisher, and producer. He rose through the ranks of a family-run business called Timely Publications which would later become Marvel Comics."),
+("Steve Ditko", "Stephen J. Ditko was an American comics artist and writer best known as artist and creator of the Marvel superheroes Spider-Man and Doctor Strange. Ditko studied under Batman artist Jerry Robinson at the Cartoonist and Illustrators School in New York City.");
+
+insert into Staff(NmStaff, DescStaff) values
+("Kōhei Horikoshi", "Kōhei Horikoshi (堀越 耕平, Horikoshi Kōhei, born November 20, 1986) is a Japanese manga artist known for creating the shōnen manga series Ōmagadoki Dōbutsuen, Barrage and My Hero Academia, all of which are or were serialized in Weekly Shōnen Jump."),
+("Masashi Kishimoto", "Masashi Kishimoto (岸本 斉史, Kishimoto Masashi, born November 8, 1974[1]) is a Japanese manga artist."),
+("Eiichiro Oda", "Eiichiro Oda (Japanese: 尾田 栄一郎, Hepburn: Oda Eiichirō, born January 1, 1975) is a Japanese manga artist and the creator of the series One Piece (1997–present)."),
+("Koyoharu Gotouge", "Koyoharu Gotouge (Japanese: 吾峠 呼世晴, Hepburn: Gotōge Koyoharu, born May 5, 1989) is a Japanese manga artist, known for the manga series Demon Slayer: Kimetsu no Yaiba (2016–2020)."),
+("Tite Kubo", "Tite Kubo (Japanese: 久保 帯人, Hepburn: Kubo Taito, born June 26, 1977) is a Japanese manga artist and character designer.");
+
+insert into Staff(NmStaff, DescStaff) values
+("Aaron Hammerstrom", NULL),
+("Bracardi Curry", NULL),
+("Bob Smith", NULL),
+("Elaina Unger", NULL);

@@ -1,0 +1,21 @@
+insert into Genre(NmGenre) VALUES
+("Non-fiction"),
+("Humor"),
+("Manga"),
+("American"),
+("Canadian"),
+("Cuban"),
+("Adult"),
+("Supervillan"),
+("Abstract"),
+("Western"),
+("Shounen"),
+("Gag"),
+("4-koma"),
+("War"),
+("Politics"),
+("Pirate"),
+("Dark Fantasy");
+
+insert into Genre(NmGenre) VALUES
+("Seinen");

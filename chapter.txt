@@ -1,0 +1,21 @@
+INSERT INTO chapter(NmChapter, IdComic) values
+("#1, Fallout: part 1", 49),
+("#2, Fallout: part 2", 49),
+("#3, Fallout: part 3", 49),
+("#4, Fallout: part 4", 49),
+("#5, The Fate of Dr. Eggman, Part 1", 49),
+("#6, The Fate of Dr. Eggman, Part 2", 49),
+("#7, Meet the New Boss", 49),
+("#8, Silent Support", 49),
+("#9", 49);
+
+INSERT INTO chapter(NmChapter, IdComic) values
+("#1", 51),
+("#2", 51),
+("#3", 51),
+("#4", 51),
+("#5", 51),
+("#6", 51),
+("#7", 51),
+("#8", 51),
+("#9", 51);
